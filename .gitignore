@@ -10,3 +10,4 @@ __pycache__/SSA_lib.cpython-37.pyc
 __pycache__/visuals.cpython-37.pyc
 .ipynb_checkpoints/Time_series_preparation_v1-checkpoint.ipynb
 *.csv
+.ipynb_checkpoints/Time_series_preparation_v3-checkpoint.ipynb
