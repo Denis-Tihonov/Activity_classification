@@ -11,3 +11,7 @@ __pycache__/visuals.cpython-37.pyc
 .ipynb_checkpoints/Time_series_preparation_v1-checkpoint.ipynb
 *.csv
 .ipynb_checkpoints/Time_series_preparation_v3-checkpoint.ipynb
+.ipynb_checkpoints/Time_series_preparation_v4-checkpoint.ipynb
+.DS_Store
+data/acc_run.mat
+data/acc_wlk.mat
