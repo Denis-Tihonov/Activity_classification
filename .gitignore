@@ -16,3 +16,5 @@ __pycache__/visuals.cpython-37.pyc
 data/acc_run.mat
 data/acc_wlk.mat
 .ipynb_checkpoints/apply_dr-checkpoint.ipynb
+.ipynb_checkpoints/animal_movement-checkpoint.ipynb
+.ipynb_checkpoints/Decomposition-checkpoint.ipynb
